@@ -1,0 +1,7 @@
+{
+  "title": "title",
+  "foo1": {
+    "field2": "default2 aaaa"
+  },
+  "foo2": "this isnt default"
+}
